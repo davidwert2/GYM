@@ -46,19 +46,19 @@
   <div class="menu" id="menu">
     <div class="container">
       <div class="logo">
-        <a href="index.html"><img src="images/logo.png" alt=""/></a>
+        <a href="index.php"><img src="images/logo.png" alt=""/></a>
       </div>
       <div class="h_menu4">
         <!-- inicio h_menu4 -->
         <a class="toggleMenu" href="#">Menu</a>
         <ul class="nav">
-          <li><a href="index.html">Incio</a></li>
-          <li><a href="about.html">Sobre Nosotros</a></li>
-          <li class="active"><a href="trainers.html">Trainers</a></li>
-          <li><a href="classes.html">Clases</a></li>
-          <!--<li><a href="blog.html">Blog</a></li>-->
-          <li><a href="pricing.html">Precios</a></li>
-          <li><a href="contact.html">Contactos</a></li>
+          <li><a href="index.php">Incio</a></li>
+          <li><a href="about.php">Sobre Nosotros</a></li>
+          <li class="active"><a href="trainers.php">Trainers</a></li>
+          <li><a href="classes.php">Clases</a></li>
+          <!--<li><a href="blog.php">Blog</a></li>-->
+          <li><a href="pricing.php">Precios</a></li>
+          <li><a href="contact.php">Contactos</a></li>
         </ul>
         <script type="text/javascript" src="js/nav.js"></script>
       </div>
@@ -1425,7 +1425,7 @@
             <p>Primero selecciona una fecha en el calendario que servira para fijar un rango de fecha limite para alcanzar tu objetivo propuesto. Luego click en Log In</p>
             <div class="buttons_login">
               <div class="btn4">
-                <a href="login.html">Log In</a>
+                <a href="login.php">Log In</a>
               </div>
               <div class="p-ww">
                 <form>
@@ -1547,12 +1547,12 @@
         <div class="col-md-4">
           <ul class="list">
             <h4 class="m_7">Incio</h4>
-            <li><a href="about.html">Sobre Nosotros</a></li>
-            <li><a href="trainers.html">Trainers</a></li>
-            <li><a href="classes.html">Clases</a></li>
-            <li><a href="pricing.html">Precios</a></li>
+            <li><a href="about.php">Sobre Nosotros</a></li>
+            <li><a href="trainers.php">Trainers</a></li>
+            <li><a href="classes.php">Clases</a></li>
+            <li><a href="pricing.php">Precios</a></li>
             <li><a href="#">Privacidad</a></li>
-            <li><a href="contact.html">Contacto</a></li>
+            <li><a href="contact.php">Contacto</a></li>
           </ul>
           <ul class="list1">
             <h4 class="m_7">Comunidad</h4>

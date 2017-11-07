@@ -74,19 +74,19 @@
   <div class="menu" id="menu">
     <div class="container">
       <div class="logo">
-        <a href="index.html"><img src="images/logo.png" alt=""/></a>
+        <a href="index.php"><img src="images/logo.png" alt=""/></a>
       </div>
       <div class="h_menu4">
         <!-- inicio h_menu4 -->
         <a class="toggleMenu" href="#">Menu</a>
         <ul class="nav">
-          <li class="active"><a href="index.html">Incio</a></li>
-          <li><a href="about.html">Sobre Nosotros</a></li>
-          <li><a href="trainers.html">Trainers</a></li>
-          <li><a href="classes.html">Clases</a></li>
-          <!--<li><a href="blog.html">Blog</a></li>-->
-          <li><a href="pricing.html">Precios</a></li>
-          <li><a href="contact.html">Contactos</a></li>
+          <li class="active"><a href="index.php">Incio</a></li>
+          <li><a href="about.php">Sobre Nosotros</a></li>
+          <li><a href="trainers.php">Trainers</a></li>
+          <li><a href="classes.php">Clases</a></li>
+          <!--<li><a href="blog.php">Blog</a></li>-->
+          <li><a href="pricing.php">Precios</a></li>
+          <li><a href="contact.php">Contactos</a></li>
         </ul>
         <script type="text/javascript" src="js/nav.js"></script>
       </div>
@@ -114,7 +114,7 @@
       <div class="row content-middle">
         <!-- inicio del contenido medio-->
         <div class="col-md-4">
-          <a href="pricing.html">
+          <a href="pricing.php">
             <ul class="spinning">
               <li class="live">live <span class="m_1">Spinning</span></li>
               <li class="room">Sala 2</li>
@@ -129,7 +129,7 @@
           </a>
         </div>
         <div class="col-md-4">
-          <a href="pricing.html">
+          <a href="pricing.php">
             <ul class="spinning">
               <li class="live">live <span class="m_1">Gym</span></li>
               <li class="room">Sala 1</li>
@@ -144,7 +144,7 @@
           </a>
         </div>
         <div class="col-md-4">
-          <a href="pricing.html">
+          <a href="pricing.php">
             <ul class="spinning">
               <li class="live">live <span class="m_1">Pilates</span></li>
               <li class="room">Sala 4</li>
@@ -575,12 +575,12 @@
         <div class="col-md-4">
           <ul class="list">
             <h4 class="m_7">Incio</h4>
-            <li><a href="about.html">Sobre Nosotros</a></li>
-            <li><a href="trainers.html">Trainers</a></li>
-            <li><a href="classes.html">Clases</a></li>
-            <li><a href="pricing.html">Precios</a></li>
+            <li><a href="about.php">Sobre Nosotros</a></li>
+            <li><a href="trainers.php">Trainers</a></li>
+            <li><a href="classes.php">Clases</a></li>
+            <li><a href="pricing.php">Precios</a></li>
             <li><a href="#">Privacidad</a></li>
-            <li><a href="contact.html">Contacto</a></li>
+            <li><a href="contact.php">Contacto</a></li>
           </ul>
           <ul class="list1">
             <h4 class="m_7">Comunidad</h4>
