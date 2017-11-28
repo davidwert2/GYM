@@ -8,7 +8,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="keywords" content="Gym, UPAO, COMPUTACION VISUAL, ACCESIBILIDAD AUMENTADA" />
-  <script type="application/x-javascript">
+  <script type="application/x-javascript"/>
+
+
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<meta name="DC.title" content="GYM">
+<meta name="DC.creator" content="UNIVERSIDAD PRIVADA ANTENOR ORREGO">
+<meta name="DC.subject" content="Datos conectados">
+<meta name="DC.description" content="Asesoramiento para una vida mejor">
+<meta name="DC.publisher" content="WEB UPAO">
+
+<div vocab="http://schema.org/" typeof="Trainers" id="wrapper" class="container">
+
+
+
+
+
     addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); }
   </script>
   <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -52,13 +68,13 @@
         <!-- inicio h_menu4 -->
         <a class="toggleMenu" href="#">Menu</a>
         <ul class="nav">
-          <li><a href="index.php">Incio</a></li>
-          <li><a href="about.php">Sobre Nosotros</a></li>
-          <li class="active"><a href="trainers.php">Trainers</a></li>
-          <li><a href="classes.php">Clases</a></li>
+          <li><a property="Inicio" href="index.php">Incio</a></li>
+          <li><a property="Sobre Nosotros" href="about.php">Sobre Nosotros</a></li>
+          <li class="active"><a property="Trainers" href="trainers.php">Trainers</a></li>
+          <li><a property="Clases" prohref="classes.php">Clases</a></li>
           <!--<li><a href="blog.php">Blog</a></li>-->
-          <li><a href="pricing.php">Precios</a></li>
-          <li><a href="contact.php">Contactos</a></li>
+          <li><a property="Precios" href="pricing.php">Precios</a></li>
+          <li><a property="Contactos" href="contact.php">Contactos</a></li>
         </ul>
         <script type="text/javascript" src="js/nav.js"></script>
       </div>
@@ -68,7 +84,8 @@
   </div>
   <!-- end menu -->
   <div class="main">
-    <div class="about_banner_img"><img src="images/trine_img.jpg" class="img-responsive" alt=""></div>
+    <div class="about_banner_img"><img src="images/trine_img.jpg" class="img-responsive" alt="">
+    </div>
     <div class="about_banner_wrap">
       <h1 class="m_11">Calendario</h1>
     </div>
